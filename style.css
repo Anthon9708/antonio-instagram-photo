@@ -1,0 +1,47 @@
+header{
+    background: rgba(219, 215, 215, 0.667);
+    padding: 12px;
+
+}
+header h1 {
+    margin: 0;
+
+}
+body {
+    background: rgba(182, 172, 172, 0.997);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.publicacion{
+    background-color:rgba(219, 215, 215, 0.667);
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+.publicacion img {
+    width: 100%;
+}
+.publicacion h2{
+    padding: 7px;
+}
+.publicacion p{
+    padding: 15px 50px;
+    font-size: 20px;
+}
+
+.publicacion .publicacion-first div:first-child{
+    display: inline-block;
+    width: 90%;
+    
+}
+.publicacion .publicacion-first div:last-child{
+    display: inline-block;
+    color: rgba(128, 128, 128, 0.582);
+}
+
+
+.contenedor{
+    margin: auto;
+    width: 700px;
+}
